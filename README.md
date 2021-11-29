@@ -9,4 +9,4 @@
 * LinkedIn: @https://www.linkedin.com/in/bharati-panigrahi-10a9461a0/
 * Gmail: bharatipanigrahi9901@gmail.com
 - ⚡ Fun fact: ...
-[![Bharati Panigrahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharatiPanigrahi)](https://github.com/Bharati2301/github-readme-stats)
+[![Bharati Panigrahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharati2301)](https://github.com/Bharati2301/github-readme-stats)
