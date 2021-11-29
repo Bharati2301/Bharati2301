@@ -18,5 +18,5 @@ MySQL/PowerBI/Tableau
 LinkedIn: @https://www.linkedin.com/in/bharati-panigrahi-10a9461a0/
 Gmail: bharatipanigrahi9901@gmail.com
 
-[![Bharati Panigrahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharati2301&count_private=true&show_icons=true)](https://github.com/Bharati2301/github-readme-stats)
+[![Bharati Panigrahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharati2301&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Bharati2301/github-readme-stats)
 
