@@ -4,13 +4,12 @@
 [![Years Badge](https://badges.pufler.dev/years/Bharati2301)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Bharati2301)](https://badges.pufler.dev)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharati2301&theme=blue-green)
-
 - 🔭 I’m currently working on something interesting!
 - 🌱 I’m currently learning Deep Learning, Computer Vision and Natural Language Proceassing.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Web Development
 - 📩 How to reach me: <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> : bharatipanigrahi9901@gmail.com
+
 
 ## 🤝Socials
 <a href = "https://www.linkedin.com/in/bharati-panigrahi-10a9461a0//"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,6 +18,7 @@
 <a href = "https://github.com/Bharati2301"><img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href = "https://in.pinterest.com/bhaanoo56/_saved/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
 <a href = "https://www.kaggle.com/bharati2324"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+
 
 ## 🚩Skills
 ### 👩🏻‍💻Languages
@@ -63,11 +63,14 @@
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 </p>
 
+
 ## 📊Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharati2301&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Bharati&nbsp;Panigrahi's&nbsp;GitHub&nbsp;Stats)   
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bharati2301&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Bharati&nbsp;Panigrahi's&nbsp;GitHub&nbsp;Stats" />     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharati2301&show_icons=true&locale=en&theme=vision-friendly-dark" />
+
 
 ## 🔥Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharati2301&theme=vision-friendly-dark&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 
 ## 🃏Just for Fun!😂
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
