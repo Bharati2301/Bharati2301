@@ -4,6 +4,8 @@
 [![Years Badge](https://badges.pufler.dev/years/Bharati2301)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Bharati2301)](https://badges.pufler.dev)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharati2301&theme=blue-green)
+
 - 🔭 I’m currently working on something interesting!
 - 🌱 I’m currently learning Deep Learning, Computer Vision and Natural Language Proceassing.
 - 👯 I’m looking to collaborate on LinkedIn.
