@@ -16,7 +16,6 @@
 <a href = "https://www.hackerrank.com/bharati23249901"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href = "https://www.hackerearth.com/@bharati23249901"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
 <a href = "https://github.com/Bharati2301"><img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href = "https://in.pinterest.com/bhaanoo56/_saved/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
 <a href = "https://www.kaggle.com/bharati2324"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 
 
