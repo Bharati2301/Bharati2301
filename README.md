@@ -1,8 +1,8 @@
 ## 👋Hello, I'm Bharati Panigrahi
 #### 👩‍🎓I am currently an Under Graduate Student with Data Science as major from Mukesh Patel School of Technology Managemnet and Engineering, NMIMS University (Mumbai Campus)!
 
-[![Years Badge](https://badges.pufler.dev/years/Bharati2301)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Bharati2301)](https://badges.pufler.dev)
+<!--[![Years Badge](https://badges.pufler.dev/years/Bharati2301)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Bharati2301)](https://badges.pufler.dev) -->
 
 - 🔭 I’m currently working on something interesting!
 - 🌱 I’m currently learning Deep Learning, Computer Vision and Natural Language Proceassing.
