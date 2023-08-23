@@ -1,5 +1,5 @@
 ## 👋Hello, I'm Bharati Panigrahi
-#### 👩‍🎓I am currently an Under Graduate Student with Data Science as major from Mukesh Patel School of Technology Managemnet and Engineering, NMIMS University (Mumbai Campus)!
+#### 👩‍🎓I am currently a Graduate Student at the University of Southern California, Viterbi School of Engineering. I'm currently majoring in Computer Science with a specialization in Artificial Intelligence!
 
 <!--[![Years Badge](https://badges.pufler.dev/years/Bharati2301)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Bharati2301)](https://badges.pufler.dev) -->
