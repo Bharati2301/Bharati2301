@@ -91,5 +91,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharati2301&theme=vision-friendly-dark&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
-## 🃏Just for Fun!😂
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
+<!--## 🃏Just for Fun!😂
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)-->
