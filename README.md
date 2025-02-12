@@ -13,7 +13,7 @@
 
 
 ## 🤝Socials
-<a href = "https://www.linkedin.com/in/bharati-panigrahi-10a9461a0//"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "https://www.linkedin.com/in/bharati-panigrahi/"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "https://www.hackerrank.com/bharati23249901"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href = "https://www.hackerearth.com/@bharati23249901"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
 <a href = "https://github.com/Bharati2301"><img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"></a>
