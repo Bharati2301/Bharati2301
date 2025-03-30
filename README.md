@@ -1,7 +1,7 @@
 ## 👋Hello, I'm Bharati Panigrahi
 #### 👩‍🎓I am currently a Graduate Student at the University of Southern California, Viterbi School of Engineering. I'm currently majoring in Computer Science with a specialization in Artificial Intelligence!
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Bharati2301}1212%2Fhit-counter" />
+<!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Bharati2301}1212%2Fhit-counter" />-->
 <!--[![Years Badge](https://badges.pufler.dev/years/Bharati2301)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Bharati2301)](https://badges.pufler.dev) -->
 
