@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on something interesting!
 - 🌱 I’m currently learning Deep Learning, Computer Vision and Natural Language Proceassing.
 - 👯 I’m looking to collaborate on LinkedIn.
-- 🤔 I’m looking for help with Web Development
 - 📩 How to reach me: <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> : bharatipanigrahi9901@gmail.com
 
 
